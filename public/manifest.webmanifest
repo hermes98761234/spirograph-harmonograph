@@ -1,0 +1,28 @@
+{
+  "name": "Spirograph and Harmonograph",
+  "short_name": "Spiro",
+  "description": "Spirograph (hypotrochoid and epitrochoid) and damped harmonograph generator for pen plotters: paper sizes in mm, SVG export, G-code and HPGL output. Runs in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#be123c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
